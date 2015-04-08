@@ -1,2 +1,2 @@
 # Gabriele_Contiello
-Repository progetti pubblici
+Repository di script dimostrativi
