@@ -1,0 +1,256 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#toplevel_page_TrovaImmobile-home .wp-menu-image img{
+	
+	padding:0;
+	padding-left:3px;
+	
+	}
+	
+#wpfooter{
+	
+	display:none;
+	
+	}	
+
+.separator{
+	
+	display:block;
+	clear:both;
+	height:20px;
+	
+	}
+	
+	
+.add-user-box{
+	
+	margin:0 15% 0 0;
+	
+	}
+	
+.error-check{
+	
+	width:auto;
+	height:20px;
+	background-image:url("error.png");
+	background-size:15px 15px;
+	background-position:left;
+	background-repeat:no-repeat;
+	padding-left:25px;
+	display:none;
+	color:#666;
+	
+	}
+
+.message-ok{
+	
+	display:none;
+	
+	}	
+	
+.message-duplicate{
+	
+	display:none;
+	
+	}
+
+.categories-box{
+	
+	border:1px solid #999;
+	border-radius:3px;
+	height:280px;
+	width:200px;
+	background-color:#F5F5F5;
+		
+	}	
+
+.categories-box h4{
+	
+	padding:8px 5px 5px 5px;
+	border-radius:3px;
+	margin:0;
+	height:15px;
+	font-size:15px;
+	font-weight:normal;
+	border-bottom-color: #DFDFDF;
+    box-shadow: 0 1px 0 #FFFFFF;
+    text-shadow: 0 1px 0 #FFFFFF;
+	background-color: #F1F1F1;
+    background-image: -moz-linear-gradient(center top , #F9F9F9, #ECECEC);
+	
+	}
+	
+.categories-list{	
+
+    background-color:white;
+	border:1px solid #ccc;
+	padding:3px;
+	height:230px;
+	overflow:auto;
+	margin:5px;
+
+}
+
+.small-table{
+	
+	width:425px;
+	float:left;
+	
+	}	
+	
+.frazione-box{
+	
+	display:none;
+	
+	}
+
+.floating{
+	
+	float:left;
+	
+	}
+
+.edit-search{
+	
+	background-color: #E8E8E8;
+	margin-bottom:5px;
+	padding:5px;
+	
+	}	
+	
+.edit-search:nth-child(odd) { background: #F9F9F9; }
+
+.report-user{
+	
+	margin-left:15px;
+	float:left;
+	height:249px;
+	font-size:15px;
+	width:25%;
+	border:1px solid #999;
+	border-radius:5px;
+	
+	}
+	
+.report-table-box{
+	
+	height:214px;
+	overflow:auto;
+	
+	}		
+	
+.report-user table{
+	
+	font-size:11px;
+	width:100%;
+	background-color: #F1F1F1;
+    background-image: -moz-linear-gradient(center top , #F9F9F9, #ECECEC);
+	
+	}
+	
+	
+.report-user h4{
+    background-color: #F1F1F1;
+    background-image: -moz-linear-gradient(center top , #F9F9F9, #ECECEC);
+    border-bottom-color: #DFDFDF;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 0 #FFFFFF;
+    font-size: 15px;
+    font-weight: normal;
+    height: 15px;
+    margin: 0;
+    padding: 8px 5px 5px;
+    text-shadow: 0 1px 0 #FFFFFF;		
+}
+	
+.report-user table input[type='checkbox']{
+	
+	margin-top:-1px;
+	width:1.3em;
+	height:1.3em;
+	
+	}		
+	
+.report-user table td{
+	
+	padding:2px;
+	
+	}	
+	
+.report-user table tr:nth-child(odd) { background: #FFF; }	
+
+.edit-param, delete-param{
+	
+	float:left;
+	
+	}
+	
+.add-param-box{
+	
+	display:none;
+	overflow:hidden;
+	
+	}	
+	
+.comune-box, .city-box{
+	
+	display:none;
+	
+	}	
+	
+#trova-italia, #trova-mondo{
+	
+	display:none;
+	
+	}
+	
+.input-left input,select{
+	
+	margin-bottom:25px;
+	
+}
+
+.input-left input{
+	
+	width:285px;
+	
+	}
+	
+.input-left select{
+	
+	width:300px;
+	
+	}			
+	
+	
+.input-left{
+	
+	float:left;
+	margin-right:50px;
+	
+	}	
+	
+.input-right{
+	
+	float:left;
+	
+	}						
+	
+.submit-trova{
+	
+	border:0;
+	border-radius:5px;
+	border:1px solid #999;
+	background-color:white;
+	padding:4px 10px 5px 10px;
+    font-size:15px;
+	color:#6B94D3;
+	
+	}	
+
+.submit-trova:hover{
+	
+	color:white;
+	background-color:#6B94D3;
+}
